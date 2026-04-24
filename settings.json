@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Obsidian-smpvoid.aternos.me:19237",
+    "port": 19237,
     "version": "",
     "try-creative": false
   },
